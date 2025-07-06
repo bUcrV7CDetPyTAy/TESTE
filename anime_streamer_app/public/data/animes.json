@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "romaji": "Ghost in the Shell: Stand Alone Complex",
+      "english": "Ghost in the Shell: SAC",
+      "native": "攻殻機動隊 STAND ALONE COMPLEX"
+    },
+    "description": "Em um futuro próximo onde a humanidade e a tecnologia se fundem, a Seção 9 é uma unidade elite de cibersegurança que combate crimes cibernéticos em Neo-Tokyo.",
+    "coverImage": {
+      "large": "/images/ghost_shell.jpeg",
+      "medium": "/images/ghost_shell.jpeg"
+    },
+    "bannerImage": "/images/ghost_shell.jpeg",
+    "genres": ["Ação", "Sci-Fi", "Thriller", "Cyberpunk"],
+    "episodes": 26,
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2002,
+    "averageScore": 85,
+    "meanScore": 86,
+    "popularity": 95000,
+    "studios": {
+      "nodes": [
+        {
+          "id": 1,
+          "name": "Production I.G"
+        }
+      ]
+    },
+    "streamingEpisodes": [
+      {
+        "title": "SA: Public Security Section 9 – SECTION-9",
+        "thumbnail": "/images/ghost_shell.jpeg",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "site": "AnimeStream"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": {
+      "romaji": "Akira",
+      "english": "Akira",
+      "native": "アキラ"
+    },
+    "description": "Em Neo-Tokyo de 2019, após uma explosão misteriosa que devastou a cidade, gangues de motociclistas lutam pelo controle. Kaneda deve salvar seu amigo Tetsuo de poderes psíquicos destrutivos.",
+    "coverImage": {
+      "large": "/images/akira.jpg",
+      "medium": "/images/akira.jpg"
+    },
+    "bannerImage": "/images/akira.jpg",
+    "genres": ["Ação", "Thriller", "Supernatural", "Cyberpunk"],
+    "episodes": 1,
+    "status": "FINISHED",
+    "season": "SUMMER",
+    "seasonYear": 1988,
+    "averageScore": 90,
+    "meanScore": 91,
+    "popularity": 120000,
+    "studios": {
+      "nodes": [
+        {
+          "id": 2,
+          "name": "Akira Committee"
+        }
+      ]
+    },
+    "streamingEpisodes": [
+      {
+        "title": "Filme Completo",
+        "thumbnail": "/images/akira.jpg",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "site": "AnimeStream"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": {
+      "romaji": "Psycho-Pass",
+      "english": "Psycho-Pass",
+      "native": "サイコパス"
+    },
+    "description": "Em um futuro distópico, o Sistema Sibyl determina a propensão criminal das pessoas. A inspetora Akane Tsunemori trabalha com executores para manter a ordem na sociedade.",
+    "coverImage": {
+      "large": "/images/psycho_pass.jpg",
+      "medium": "/images/psycho_pass.jpg"
+    },
+    "bannerImage": "/images/psycho_pass.jpg",
+    "genres": ["Ação", "Thriller", "Psicológico", "Cyberpunk"],
+    "episodes": 22,
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2012,
+    "averageScore": 88,
+    "meanScore": 89,
+    "popularity": 110000,
+    "studios": {
+      "nodes": [
+        {
+          "id": 3,
+          "name": "Production I.G"
+        }
+      ]
+    },
+    "streamingEpisodes": [
+      {
+        "title": "Crime Coefficient",
+        "thumbnail": "/images/psycho_pass.jpg",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "site": "AnimeStream"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": {
+      "romaji": "Neon Genesis Evangelion",
+      "english": "Evangelion",
+      "native": "新世紀エヴァンゲリオン"
+    },
+    "description": "Em um futuro pós-apocalíptico, jovens pilotos controlam mechas gigantes chamados EVAs para defender a humanidade contra misteriosos seres conhecidos como Anjos.",
+    "coverImage": {
+      "large": "/images/evangelion.jpg",
+      "medium": "/images/evangelion.jpg"
+    },
+    "bannerImage": "/images/evangelion.jpg",
+    "genres": ["Mecha", "Drama", "Psicológico", "Sci-Fi"],
+    "episodes": 26,
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 1995,
+    "averageScore": 92,
+    "meanScore": 93,
+    "popularity": 150000,
+    "studios": {
+      "nodes": [
+        {
+          "id": 4,
+          "name": "Gainax"
+        }
+      ]
+    },
+    "streamingEpisodes": [
+      {
+        "title": "Angel Attack",
+        "thumbnail": "/images/evangelion.jpg",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "site": "AnimeStream"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": {
+      "romaji": "Cyberpunk: Edgerunners",
+      "english": "Cyberpunk: Edgerunners",
+      "native": "サイバーパンク エッジランナーズ"
+    },
+    "description": "Em Night City, um jovem de rua tenta sobreviver em uma cidade do futuro obcecada por tecnologia e modificações corporais, onde você tem tudo a perder.",
+    "coverImage": {
+      "large": "/images/cyberpunk_anime.jpg",
+      "medium": "/images/cyberpunk_anime.jpg"
+    },
+    "bannerImage": "/images/cyberpunk_anime.jpg",
+    "genres": ["Ação", "Drama", "Sci-Fi", "Cyberpunk"],
+    "episodes": 10,
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2022,
+    "averageScore": 89,
+    "meanScore": 90,
+    "popularity": 95000,
+    "studios": {
+      "nodes": [
+        {
+          "id": 5,
+          "name": "Studio Trigger"
+        }
+      ]
+    },
+    "streamingEpisodes": [
+      {
+        "title": "Let You Down",
+        "thumbnail": "/images/cyberpunk_anime.jpg",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+        "site": "AnimeStream"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": {
+      "romaji": "Blade Runner: Black Lotus",
+      "english": "Blade Runner: Black Lotus",
+      "native": "ブレードランナー ブラックロータス"
+    },
+    "description": "Uma história original ambientada no universo de Blade Runner, seguindo uma jovem replicante que desperta sem memórias e embarca em uma jornada para descobrir sua identidade.",
+    "coverImage": {
+      "large": "/images/blade_runner_anime.jpg",
+      "medium": "/images/blade_runner_anime.jpg"
+    },
+    "bannerImage": "/images/blade_runner_anime.jpg",
+    "genres": ["Ação", "Sci-Fi", "Thriller", "Cyberpunk"],
+    "episodes": 13,
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2021,
+    "averageScore": 75,
+    "meanScore": 76,
+    "popularity": 65000,
+    "studios": {
+      "nodes": [
+        {
+          "id": 6,
+          "name": "Sola Digital Arts"
+        }
+      ]
+    },
+    "streamingEpisodes": [
+      {
+        "title": "The Beginning",
+        "thumbnail": "/images/blade_runner_anime.jpg",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "site": "AnimeStream"
+      }
+    ]
+  }
+]
